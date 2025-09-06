@@ -2,7 +2,7 @@
 
 A small **C** console program that reads a number of assignment scores, computes the **average**, and prints a **letter grade**.
 
-## How it Works (High Level)
+## How it Works
 1. Prompts for `n` (the number of assignments) and validates the input.
 2. Loops `n` times asking for a score **0–100**; rejects invalid inputs.
 3. Computes the average and maps it to **A/B/C/D/F** via a helper function.
