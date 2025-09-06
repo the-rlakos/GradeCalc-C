@@ -1,1 +1,3 @@
-# GradeCalc-C
+# StudentGradeCalc-C
+
+Average and grade with comments.
